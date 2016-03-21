@@ -1,3 +1,9 @@
+##Instructions
+R code to generate is added as Plot1.R, Plot2.R, Plot3.R and Plot4.R
+Please note that Code assumes that household_power_consumption.txt is already there in same directory.
+You have to download zip file https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip.
+unzip and copy ousehold_power_consumption.txt in working directory
+
 ## Introduction
 
 This assignment uses data from
